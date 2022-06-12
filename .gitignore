@@ -1,0 +1,5 @@
+/Public/*
+/Public/Files
+/Test Cases/node_modules
+/Test Cases/package.json
+/Test Cases/package-lock.json
